@@ -42,7 +42,7 @@ The main goal of this project is to **understand and build a complete web applic
 
 
 
-## 🧩 CI/CD Pipeline
+## 🧩 "CI/CD Pipeline"
 
 ### 🔍 What is CI/CD?
 **Continuous Integration (CI)** and **Continuous Deployment (CD)** are modern software development practices that automate the process of building, testing, and deploying code.  
